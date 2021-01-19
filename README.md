@@ -1,2 +1,2 @@
 # python-basic-notes-noteboooks
-notebooks about some basic notes of python 3
+notebook about basic notes and code examples of python 3
